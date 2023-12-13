@@ -1,6 +1,19 @@
+.counter-display {
+    text-align: center;
+    margin: 50px 0px;
 
-.output { 
-    font-size: 200px;
 }
 
-.counterDown {font-size: 200px;}
+.counter-display div {
+    display: inline-block;
+    font-size: 100px;
+    background-color: black;
+    color: white;
+    width: 100px;
+   
+}
+
+.bi-clock {
+    width: 60px ;
+    Height: 60px;
+}
